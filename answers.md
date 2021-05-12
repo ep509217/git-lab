@@ -137,5 +137,3 @@ At line:1 char:4
 +    ~~
     + CategoryInfo          : InvalidArgument: (:) [Get-ChildItem], ParameterBindingException
     + FullyQualifiedErrorId : AmbiguousParameter,Microsoft.PowerShell.Commands.GetChildItemCommand
-
-Answer 14:
